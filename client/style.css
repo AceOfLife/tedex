@@ -9,6 +9,10 @@
 
 body {
   background: #343541;
+  width: 100%;
+  min-width: 320px;
+  max-width: 1024px;
+  margin: 0 auto;
 }
 
 #app {
